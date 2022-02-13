@@ -1,2 +1,2 @@
 # Codeforces
-Some of my Codeforces Problem Solutions mainly in Python
+Some of my Codeforces Problem Solutions
